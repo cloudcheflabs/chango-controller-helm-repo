@@ -3,11 +3,11 @@ entries:
   chango-controller:
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2023-02-18T18:45:12.630572461Z"
+    created: "2023-02-19T01:33:58.502920049Z"
     description: chango controller
-    digest: b2f37ec24d18ced64a97d626810637884b0dbca5df9b67351e49188ed79b6d30
+    digest: 52dcf709b8b554ee9baa852455adfa00e39198938b250482017e0edee771ecba
     name: chango-controller
     urls:
     - chango-controller-v1.0.0.tgz
     version: v1.0.0
-generated: "2023-02-18T18:45:12.630109153Z"
+generated: "2023-02-19T01:33:58.502483031Z"
