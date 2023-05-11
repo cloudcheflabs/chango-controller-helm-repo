@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   chango-controller:
   - apiVersion: v2
+    appVersion: 1.5.0
+    created: "2023-05-11T02:28:41.657736276Z"
+    description: chango controller
+    digest: 1a36d23032c8b29de69515c7a824f041f70ebadae2457c2b74f04fdb62db3164
+    name: chango-controller
+    urls:
+    - chango-controller-v1.2.1.tgz
+    version: v1.2.1
+  - apiVersion: v2
     appVersion: v1.0.0
-    created: "2023-03-19T06:22:19.345584684Z"
+    created: "2023-05-11T02:28:41.657417786Z"
     description: chango controller
     digest: 8c34a0a423cdcc69a6128ba91e04c7c9a411ad958f673e9d43e50597d9cbdf86
     name: chango-controller
@@ -12,7 +21,7 @@ entries:
     version: v1.2.0
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2023-03-19T06:22:19.345222578Z"
+    created: "2023-05-11T02:28:41.657115596Z"
     description: chango controller
     digest: b2e1c0212f468b15ba1000cb005eae76faf536d3f52f6b3514f7046be2c80fcd
     name: chango-controller
@@ -21,11 +30,11 @@ entries:
     version: v1.1.0
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2023-03-19T06:22:19.344860172Z"
+    created: "2023-05-11T02:28:41.656749736Z"
     description: chango controller
     digest: 81b7ef92fa8eb9a7d5181c5a9dfca0f53df9108caf37f03665d311b67af79dbf
     name: chango-controller
     urls:
     - chango-controller-v1.0.0.tgz
     version: v1.0.0
-generated: "2023-03-19T06:22:19.3443843Z"
+generated: "2023-05-11T02:28:41.656300419Z"
