@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   chango-controller:
   - apiVersion: v2
+    appVersion: 1.7.0
+    created: "2023-06-03T08:02:53.967608393Z"
+    description: chango controller
+    digest: 90ec449ec754f7cfc7dfc1de1660dbca8a9f114795125752f3bd81a8413f7b50
+    name: chango-controller
+    urls:
+    - chango-controller-v1.4.0.tgz
+    version: v1.4.0
+  - apiVersion: v2
     appVersion: 1.6.0
-    created: "2023-06-03T06:57:51.750950795Z"
+    created: "2023-06-03T08:02:53.967301455Z"
     description: chango controller
     digest: f936609d983764998a4283e3c29c9d0783b645396039ca7aef600fadb015193a
     name: chango-controller
@@ -12,7 +21,7 @@ entries:
     version: v1.3.0
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2023-06-03T06:57:51.750640821Z"
+    created: "2023-06-03T08:02:53.967013812Z"
     description: chango controller
     digest: 5fd3ae76cb4b5586560e2ff8a32b28396c32a9149c7bdc6fa69cfbf530254617
     name: chango-controller
@@ -21,7 +30,7 @@ entries:
     version: v1.2.2
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2023-06-03T06:57:51.750339352Z"
+    created: "2023-06-03T08:02:53.966702926Z"
     description: chango controller
     digest: 7bc09ce82be6020967f19cebde52149fc573728c6cf8abcfb9ab6b69f45b601d
     name: chango-controller
@@ -30,7 +39,7 @@ entries:
     version: v1.2.1
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2023-06-03T06:57:51.750041812Z"
+    created: "2023-06-03T08:02:53.966369468Z"
     description: chango controller
     digest: 8c34a0a423cdcc69a6128ba91e04c7c9a411ad958f673e9d43e50597d9cbdf86
     name: chango-controller
@@ -39,7 +48,7 @@ entries:
     version: v1.2.0
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2023-06-03T06:57:51.749695189Z"
+    created: "2023-06-03T08:02:53.966071436Z"
     description: chango controller
     digest: b2e1c0212f468b15ba1000cb005eae76faf536d3f52f6b3514f7046be2c80fcd
     name: chango-controller
@@ -48,11 +57,11 @@ entries:
     version: v1.1.0
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2023-06-03T06:57:51.749338385Z"
+    created: "2023-06-03T08:02:53.965751022Z"
     description: chango controller
     digest: 81b7ef92fa8eb9a7d5181c5a9dfca0f53df9108caf37f03665d311b67af79dbf
     name: chango-controller
     urls:
     - chango-controller-v1.0.0.tgz
     version: v1.0.0
-generated: "2023-06-03T06:57:51.747550946Z"
+generated: "2023-06-03T08:02:53.965294171Z"
